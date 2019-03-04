@@ -1,15 +1,15 @@
 {
-  "main.css": "/contactmanager/static/css/main.11d832ee.chunk.css",
-  "main.js": "/contactmanager/static/js/main.6802e47d.chunk.js",
-  "main.js.map": "/contactmanager/static/js/main.6802e47d.chunk.js.map",
-  "runtime~main.js": "/contactmanager/static/js/runtime~main.e4bf40f2.js",
-  "runtime~main.js.map": "/contactmanager/static/js/runtime~main.e4bf40f2.js.map",
-  "static/css/2.a4aff260.chunk.css": "/contactmanager/static/css/2.a4aff260.chunk.css",
-  "static/js/2.e41022f3.chunk.js": "/contactmanager/static/js/2.e41022f3.chunk.js",
-  "static/js/2.e41022f3.chunk.js.map": "/contactmanager/static/js/2.e41022f3.chunk.js.map",
-  "index.html": "/contactmanager/index.html",
-  "precache-manifest.ecea8b7b45454042006e680bf619d826.js": "/contactmanager/precache-manifest.ecea8b7b45454042006e680bf619d826.js",
-  "service-worker.js": "/contactmanager/service-worker.js",
-  "static/css/2.a4aff260.chunk.css.map": "/contactmanager/static/css/2.a4aff260.chunk.css.map",
-  "static/css/main.11d832ee.chunk.css.map": "/contactmanager/static/css/main.11d832ee.chunk.css.map"
+  "main.css": "/React-Contact-Manager/static/css/main.11d832ee.chunk.css",
+  "main.js": "/React-Contact-Manager/static/js/main.71ff73ea.chunk.js",
+  "main.js.map": "/React-Contact-Manager/static/js/main.71ff73ea.chunk.js.map",
+  "runtime~main.js": "/React-Contact-Manager/static/js/runtime~main.45fcd536.js",
+  "runtime~main.js.map": "/React-Contact-Manager/static/js/runtime~main.45fcd536.js.map",
+  "static/css/2.a4aff260.chunk.css": "/React-Contact-Manager/static/css/2.a4aff260.chunk.css",
+  "static/js/2.e41022f3.chunk.js": "/React-Contact-Manager/static/js/2.e41022f3.chunk.js",
+  "static/js/2.e41022f3.chunk.js.map": "/React-Contact-Manager/static/js/2.e41022f3.chunk.js.map",
+  "index.html": "/React-Contact-Manager/index.html",
+  "precache-manifest.843edaa7accd80dce2a11ba6a048bbe7.js": "/React-Contact-Manager/precache-manifest.843edaa7accd80dce2a11ba6a048bbe7.js",
+  "service-worker.js": "/React-Contact-Manager/service-worker.js",
+  "static/css/2.a4aff260.chunk.css.map": "/React-Contact-Manager/static/css/2.a4aff260.chunk.css.map",
+  "static/css/main.11d832ee.chunk.css.map": "/React-Contact-Manager/static/css/main.11d832ee.chunk.css.map"
 }
